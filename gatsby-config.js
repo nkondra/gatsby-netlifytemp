@@ -3,7 +3,6 @@ module.exports = {
     title: 'Gatsby Default Starter',
     desc: 'Initial description to test',
   },
-  pathPrefix: '/levelup-testblog',
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
@@ -31,3 +30,5 @@ module.exports = {
     'gatsby-plugin-sharp',
   ],
 }
+
+// pathPrefix: '/levelup-testblog'
